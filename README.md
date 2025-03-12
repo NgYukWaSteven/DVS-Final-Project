@@ -1,6 +1,9 @@
 # DVS-Final-Project
 Design for Visual Systems Final Project
 
+#Please follow the following to setup
+Download main.py from github
+
 # Gesture Filter & Object Extraction Interface
 
 ## Project Overview
