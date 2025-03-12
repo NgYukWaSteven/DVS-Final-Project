@@ -115,7 +115,7 @@ This project demonstrates a sophisticated integration of gesture recognition, re
 
 ---
 
-*Team Members: Yuk Wa Steven Ng
-*CID: 02100662
-*Email: steven.ng21@imperial.ac.uk
-*Date: 12/03/2025
+* Team Members: Yuk Wa Steven Ng
+* CID: 02100662
+* Email: steven.ng21@imperial.ac.uk
+* Date: 12/03/2025
