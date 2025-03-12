@@ -1,8 +1,12 @@
 # DVS-Final-Project
 Design for Visual Systems Final Project
 
-#Please follow the following to setup
-Download main.py from github
+# Please follow the following to setup
+- Download main.py from github, place into a file directory and enter the directory within VSCode
+- In VSCode powershell, type: python3 -m venv myenv
+- Next, type and enter: myenv\Scripts\activate
+- Next: pip install opencv-python, then pip install mediapipe
+- You should now have main.py and a folder called myenv within the workspace, you may now follow the rest of the readme file to operate the program
 
 # Gesture Filter & Object Extraction Interface
 
